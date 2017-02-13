@@ -10,8 +10,8 @@ absurde qu’on en vient à se demander si son auteur n’a pas cherché à nous
 raison.
 
 Et si c’était vraiment le cas ? Et quelles pourraient être les motivations de leurs auteur.e.s ?
+En était-ils conscients ? Les architectes sont-ils tous fous ou incompétents ?
 
-En nous basant sur quelques exemples réels de code piégé, nous allons vous montrer comment
-le manque de confiance accordé aux futurs développeu.r.se.s peut engendrer de réelles monstruosités dont
-il est compliqué de se départir… Mais aussi comment les éviter tout en gardant votre architecture cohérente
-au fil du temps.
+En nous basant sur quelques exemples réels de code piégé, nous allons vous montrer comment, même avec
+la meilleur volonté du monde, n'importe quel développeur peut générer son lot de dette technique et nuire
+à son projet sur le long terme… mais aussi comment éviter de reproduire ces pièges.
