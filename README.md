@@ -1,6 +1,6 @@
 # Booby Trap Programming
 
-Conférence sur les mauvaises pratiques volontaires
+Conférence sur les mauvaises pratiques de code
 
 Abstract
 --------
