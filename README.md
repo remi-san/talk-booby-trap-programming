@@ -13,6 +13,6 @@ Et si c’était vraiment le cas ? Dans ce cas, quelles pourraient être les mot
 Folie ou incompétence ? Et si la réponse était ailleurs...
 
 En nous basant sur quelques exemples réels de code piégé, nous allons vous montrer comment, même avec
-la meilleur volonté du monde, n'importe quel développeur peut générer son lot de dette technique et nuire
+la meilleur volonté du monde, n'importe quel développeu.se.r peut générer son lot de dette technique et nuire
 à son projet sur le long terme… mais aussi comment éviter de reproduire ces pièges plus communs qu'il n'y
 parait.
